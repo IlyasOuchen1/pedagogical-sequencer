@@ -1,0 +1,106 @@
+{
+    "domaine": "Cybersécurité - Formation aux bonnes pratiques pour employés",
+    "classification_bloom": {
+      "se_souvenir": [
+        "Identifier les principales menaces cybersécurité (phishing, malware, ransomware)",
+        "Reconnaître les signes d'une tentative de phishing dans un email",
+        "Mémoriser les bonnes pratiques de création de mots de passe",
+        "Lister les types de données sensibles à protéger"
+      ],
+      "comprendre": [
+        "Expliquer les principes de base de la sécurité informatique",
+        "Interpréter les niveaux de risque cybersécurité selon la classification",
+        "Distinguer les différents types de malwares et leurs impacts",
+        "Comprendre l'importance de la mise à jour logicielle"
+      ],
+      "appliquer": [
+        "Mettre en œuvre les bonnes pratiques de mots de passe forts",
+        "Configurer correctement un antivirus sur son poste de travail",
+        "Utiliser de manière sécurisée un VPN d'entreprise",
+        "Appliquer les procédures de sauvegarde de données"
+      ],
+      "analyser": [
+        "Analyser les vulnérabilités potentielles d'un poste de travail",
+        "Évaluer la fiabilité et la légitimité d'un email suspect",
+        "Examiner les logs de sécurité pour identifier des anomalies",
+        "Comparer différentes solutions de sécurité"
+      ],
+      "evaluer": [
+        "Juger de l'efficacité des mesures de sécurité actuellement en place",
+        "Critiquer et améliorer les politiques de sécurité existantes",
+        "Évaluer les risques avant l'installation d'un nouveau logiciel",
+        "Recommander des améliorations pour la sécurité du système"
+      ],
+      "creer": [
+        "Concevoir un plan de réponse personnalisé aux incidents de sécurité",
+        "Élaborer une charte de sécurité informatique pour son équipe",
+        "Développer une stratégie de sensibilisation cybersécurité",
+        "Créer des procédures de vérification pour les communications externes"
+      ]
+    },
+    "objectifs_smart": [
+      {
+        "objectif": "À la fin de la formation, l'apprenant sera capable d'identifier correctement 90% des tentatives de phishing dans un test de 20 emails variés en moins de 10 minutes",
+        "specifique": "Identifier les tentatives de phishing dans des emails",
+        "mesurable": "90% de réussite sur un test de 20 emails",
+        "atteignable": "Test adapté au niveau débutant avec indices visuels progressifs",
+        "pertinent": "Compétence essentielle pour la sécurité quotidienne en entreprise",
+        "temporel": "10 minutes maximum pour le test",
+        "niveau_bloom": "se_souvenir"
+      },
+      {
+        "objectif": "L'apprenant créera un mot de passe de 12 caractères minimum respectant 4 critères de complexité en 5 minutes maximum",
+        "specifique": "Créer un mot de passe fort selon les critères de sécurité",
+        "mesurable": "12 caractères minimum, 4 critères de complexité respectés",
+        "atteignable": "Outils d'aide et générateur de mots de passe disponibles",
+        "pertinent": "Base fondamentale de la sécurité des comptes personnels et professionnels",
+        "temporel": "5 minutes pour la création et validation",
+        "niveau_bloom": "appliquer"
+      },
+      {
+        "objectif": "L'apprenant analysera et évaluera 5 politiques de sécurité différentes en 30 minutes pour identifier au moins 3 failles ou améliorations possibles par politique",
+        "specifique": "Analyser des politiques de sécurité informatique",
+        "mesurable": "5 politiques analysées, 3 améliorations identifiées par politique",
+        "atteignable": "Grille d'analyse et exemples fournis, politiques de complexité adaptée",
+        "pertinent": "Compétence managériale pour l'amélioration continue de la sécurité",
+        "temporel": "30 minutes pour l'analyse complète",
+        "niveau_bloom": "analyser"
+      },
+      {
+        "objectif": "L'apprenant concevra un plan de réponse aux incidents cybersécurité personnalisé pour son poste en 45 minutes, incluant 5 étapes clés et 3 contacts d'urgence",
+        "specifique": "Concevoir un plan de réponse aux incidents cybersécurité",
+        "mesurable": "Plan avec 5 étapes clés et 3 contacts d'urgence identifiés",
+        "atteignable": "Modèle de plan fourni, adaptation à son contexte de travail",
+        "pertinent": "Préparation essentielle pour réagir efficacement en cas d'incident",
+        "temporel": "45 minutes pour la conception complète",
+        "niveau_bloom": "creer"
+      }
+    ],
+    "evaluation_difficulte": {
+      "facile": [
+        "Reconnaissance des signes de phishing de base",
+        "Création de mots de passe forts",
+        "Installation et configuration d'antivirus",
+        "Identification des données sensibles"
+      ],
+      "moyen": [
+        "Configuration sécurisée d'un VPN",
+        "Analyse de logs de sécurité simples",
+        "Évaluation de politiques de sécurité existantes",
+        "Mise en place de procédures de sauvegarde"
+      ],
+      "difficile": [
+        "Conception de plans de réponse aux incidents complets",
+        "Élaboration de chartes de sécurité personnalisées",
+        "Développement de stratégies de sensibilisation",
+        "Création de procédures de vérification avancées"
+      ],
+      "progression_temporelle": "6 heures de formation réparties sur 3 sessions de 2h sur une semaine",
+      "prerequis": "Connaissances informatiques de base (navigation web, utilisation d'emails, installation de logiciels)",
+      "public_cible": "Employés de bureau, managers d'équipe, personnel IT non-spécialisé en sécurité",
+      "modalites_evaluation": {
+        "formative": "Quiz après chaque séquence, exercices pratiques",
+        "sommative": "Test final de 45 minutes + présentation du plan d'action personnel"
+      }
+    }
+  }
